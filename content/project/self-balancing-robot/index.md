@@ -12,3 +12,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Partner project as an exploration into Embedded Systems programming using C Programming.
