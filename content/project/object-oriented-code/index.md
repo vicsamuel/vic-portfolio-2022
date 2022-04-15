@@ -9,7 +9,7 @@ links:
     name: GitHub Link to the Project!
     icon_pack: fab
 image:
-  filename: ooo.jpg
+  filename: ooo.jpeg
   focal_point: Smart
   preview_only: false
 ---
