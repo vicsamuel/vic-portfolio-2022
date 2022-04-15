@@ -12,4 +12,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Partner project as an exploration into Embedded Systems programming using C Programming.
+This was a partner project done at IUPUI as an exploration into Embedded Systems programming using C Programming. We used a primitive PIC18F Microcontroller to really understand what we were coding as we built this project from scratch.
