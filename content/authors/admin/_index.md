@@ -2,11 +2,11 @@
 title: Victor Samuel
 role: Associate at Huron Consulting - Revenue Cycle Back-End
 avatar_filename: avatar.jpeg
-bio: I love new technology, coding solutions, and cryptocurrency
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Technology
+  - Coding Solutions
+  - Cryptocurrency
 social:
   - icon: github
     icon_pack: fab
