@@ -12,6 +12,6 @@ links:
 image:
   filename: featured.jpeg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: Testing caption
 ---
