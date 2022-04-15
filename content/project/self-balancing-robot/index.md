@@ -7,6 +7,8 @@ draft: false
 featured: false
 links:
   - url: https://www.youtube.com/watch?v=rE3bZ3mFMf0
+    icon_pack: null
+    name: Video of the robot being controlled with iPhone
 image:
   filename: pic.jpg
   focal_point: Smart
