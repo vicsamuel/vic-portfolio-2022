@@ -1,21 +1,18 @@
 ---
 slides: example
 url_pdf: ""
-title: Hardware Deployments
+date: 2016-04-27T00:00:00.000Z
 summary: ""
 url_video: ""
-date: 2016-04-27T00:00:00Z
-external_link: ""
-url_slides: ""
+title: Hardware Deployments
 subtitle: Worked with Lenovo to develop a Cloud Deploy image to allow for a
   Windows 10 installtion with specialized software for employees worldwide.
+featured: false
 tags:
   - Coding
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+external_link: ""
+url_slides: ""
+links: []
 image:
   caption: Lenovo Machine
   focal_point: Smart
