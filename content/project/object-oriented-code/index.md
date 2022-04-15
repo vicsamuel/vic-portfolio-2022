@@ -11,5 +11,5 @@ links:
 image:
   filename: ooo.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
