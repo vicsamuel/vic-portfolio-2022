@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: NEW URL FROM COMPLETING DJANGO COURSE
+- certificate_url: https://www.comptia.org/certifications/security
   date_end: ""
   date_start: "2022-01-01"
   description: Built out a social media site using Django.
@@ -32,8 +32,8 @@ item:
   title: Python and Django Web Developer Full-Stack Bootcamp
   url: https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
 - certificate_url: https://www.comptia.org/certifications/security
-  date_end: "August 2020"
-  date_start: "August 2017"
+  date_end: "2021-08-01"
+  date_start: "2017-08-01"
   description: "A global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career."
   organization: Coursera
   organization_url: https://www.comptia.org
