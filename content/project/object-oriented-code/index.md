@@ -10,7 +10,7 @@ links:
     name: GitHub Link to the Project!
     icon_pack: null
 image:
-  filename: featured.jpg
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
   caption: Testing caption
