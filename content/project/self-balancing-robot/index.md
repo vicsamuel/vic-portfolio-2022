@@ -10,7 +10,7 @@ links:
     icon_pack: null
     name: Video of the robot being controlled with iPhone
 image:
-  filename: null
+  filename: pic.jpg
   focal_point: Smart
   preview_only: false
   alt_text: ""
