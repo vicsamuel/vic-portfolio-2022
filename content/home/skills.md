@@ -24,11 +24,43 @@ feature:
   icon: js
   icon_pack: fas
   name: JavaScript
-- description: 70%
-  icon: camera-retro
+- description: 95%
+  icon: fa-database
   icon_pack: fas
-  name: Photography
- {{< icon name="terminal" pack="fas" >}} Terminal
+  name: SQL
+- description: 70%
+  icon: fa-html5
+  icon_pack: fas
+  name: HTML
+- description: 70%
+  icon: fa-css3
+  icon_pack: fas
+  name: CSS
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: Analysis
+- description: 20%
+  icon: aws
+  icon_pack: fab
+  name: Automation
+- description: 80%
+  icon: network-wired
+  icon_pack: fas
+  name: Networking
+- description: 60%
+  icon: angular
+  icon_pack: fab
+  name: Angular
+- description: 65%
+  icon: linux
+  icon_pack: fab
+  name: Linux
+- description: 70%
+  icon: bitcoin
+  icon_pack: fab
+  name: Cryptocurrency
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
