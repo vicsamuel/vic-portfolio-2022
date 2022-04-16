@@ -17,12 +17,12 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 80%
-  icon: fa-brands
-  icon_pack: fas
+  icon: python
+  icon_pack: fab
   name: Python
 - description: 85%
   icon: js
-  icon_pack: fas
+  icon_pack: fab
   name: JavaScript
 - description: 95%
   icon: database
@@ -30,11 +30,11 @@ feature:
   name: SQL
 - description: 70%
   icon: html5
-  icon_pack: fas
+  icon_pack: fab
   name: HTML
 - description: 70%
   icon: css3
-  icon_pack: fas
+  icon_pack: fab
   name: CSS
 - description: 100%
   icon: chart-line
