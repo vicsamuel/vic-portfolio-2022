@@ -35,7 +35,7 @@ item:
   date_end: "2021-08-01"
   date_start: "2017-08-01"
   description: "A global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career."
-  organization: Coursera
+  organization: CompTIA
   organization_url: https://www.comptia.org
   title: Security+
   url: ""
