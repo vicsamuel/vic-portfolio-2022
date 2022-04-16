@@ -44,7 +44,7 @@ feature:
   icon: aws
   icon_pack: fab
   name: Automation
-- description: 80%
+- description: 30%
   icon: react
   icon_pack: fab
   name: React
