@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Technical Support Analyst
-    company: Freedom Mortgage
-    company_url: 'https://www.freedommortgage.com/'
+  - title: Associate - Revenue Cycle Back-End
+    company: Huron Consulting
+    company_url: 'https://www.huronconsultinggroup.com/
     company_logo:
-    location: Remote (Fishers, IN)
-    date_start: '2021-06-21'
-    date_end: '2021-09-24'
+    location: Remote (Portland, OR)
+    date_start: '2021-09-27'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
