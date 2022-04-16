@@ -25,15 +25,15 @@ feature:
   icon_pack: fas
   name: JavaScript
 - description: 95%
-  icon: fa-database
+  icon: database
   icon_pack: fas
   name: SQL
 - description: 70%
-  icon: fa-html5
+  icon: html5
   icon_pack: fas
   name: HTML
 - description: 70%
-  icon: fa-css3
+  icon: css3
   icon_pack: fas
   name: CSS
 - description: 100%
