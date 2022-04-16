@@ -60,6 +60,10 @@ feature:
   icon: bitcoin
   icon_pack: fab
   name: Cryptocurrency
+- description: 80%
+  icon: shield-alt
+  icon_pack: fas
+  name: Cybersecurity
 
 
 # Uncomment to use emoji icons.
