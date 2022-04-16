@@ -45,9 +45,9 @@ feature:
   icon_pack: fab
   name: Automation
 - description: 80%
-  icon: network-wired
-  icon_pack: fas
-  name: Networking
+  icon: react
+  icon_pack: fab
+  name: React
 - description: 60%
   icon: angular
   icon_pack: fab
