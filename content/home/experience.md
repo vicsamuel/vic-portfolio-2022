@@ -40,7 +40,7 @@ experience:
   - title: Senior Technical Support Analyst
     company: Freedom Mortgage
     company_url: 'https://www.freedommortgage.com/'
-    company_logo:
+    company_logo: freedommortgagelogo
     location: Remote (Fishers, IN)
     date_start: '2021-06-21'
     date_end: '2021-09-24'
@@ -55,7 +55,7 @@ experience:
   - title: Technical Support Analyst
     company: Vertellus Specialties
     company_url: 'https://vertellus.com/'
-    company_logo:
+    company_logo: vertelluslogo
     location: Indiana
     date_start: '2021-07-21'
     date_end: '2018-08-21'
