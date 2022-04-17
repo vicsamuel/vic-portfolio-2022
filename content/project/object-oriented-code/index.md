@@ -13,5 +13,6 @@ image:
   filename: featured.jpeg
   focal_point: Smart
   preview_only: true
-  caption: Testing caption
+  caption: OOP
 ---
+Exploration into the 23 different Object-Oriented Programming design patterns. More details are given on the GitHub repository linked below!
