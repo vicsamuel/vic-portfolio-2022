@@ -5,6 +5,8 @@ subtitle: Partner project as an exploration into Embedded Systems programming
 date: 2022-04-15T19:37:06.760Z
 draft: false
 featured: false
+tags:
+  - Coding
 links:
   - url: https://www.youtube.com/watch?v=rE3bZ3mFMf0
     icon_pack: null
