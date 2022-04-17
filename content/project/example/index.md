@@ -9,7 +9,7 @@ subtitle: Worked with Lenovo to develop a Cloud Deploy image to allow for a
   Windows 10 installtion with specialized software for employees worldwide.
 featured: false
 tags:
-  - Coding
+  - Other
 external_link: ""
 url_slides: ""
 links: []
