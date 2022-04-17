@@ -28,4 +28,4 @@ highlight_name: true
 ---
 I am a highly driven, results-focused engineer with experience in Information Technology as well as implementing database solutions. I currently work at Huron Consulting in development of the back end of our Revenue Cycle tool. I am open to collaborations and positions in Data Science or Software Development.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
