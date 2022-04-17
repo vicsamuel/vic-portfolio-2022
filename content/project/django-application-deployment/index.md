@@ -8,7 +8,7 @@ links:
   - url: https://github.com/vicsamuel/django-deployment-app-test
     name: GitHub link to the project!
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Python/Django
