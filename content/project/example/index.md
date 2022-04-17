@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: Lenovo Cloud Deploy
 url_pdf: ""
 date: 2016-04-27T00:00:00.000Z
 summary: ""
