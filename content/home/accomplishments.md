@@ -28,6 +28,7 @@ item:
   date_start: "2022-01-01"
   description: "Brushed up on knowledge of JS, HTML, CSS as well as frameworks like Bootstrap and jQuery. The main focus of this bootcamp was Python and Django using which I developed a full-stack Social Media Site Clone."
   organization: Udemy
+  organization_logo: Udemy
   organization_url: https://www.udemy.com/
   title: Python and Django Web Developer Full-Stack Bootcamp
   url: https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
