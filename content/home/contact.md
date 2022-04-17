@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: Leave me a message and contact info and I will get back to you!
+subtitle: Leave me a name, contact info, and a short message I will get back to you!
 
 content:
   # Automatically link email and phone or display as text?
