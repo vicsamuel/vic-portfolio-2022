@@ -2,7 +2,7 @@
 title: Django Application Development
 date: 2022-04-15T20:14:36.467Z
 draft: false
-featured: false
+featured: true
 tags:
   - Coding
 links:
