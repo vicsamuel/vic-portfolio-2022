@@ -3,6 +3,8 @@ title: Multithreading
 date: 2022-04-15T20:12:44.577Z
 draft: false
 featured: false
+tags:
+  - Coding
 links:
   - url: https://github.com/vicsamuel/Multithreaded-Sorting
     name: GitHub link to the Project!
