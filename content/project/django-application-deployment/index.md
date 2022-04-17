@@ -8,8 +8,9 @@ links:
   - url: https://github.com/vicsamuel/django-deployment-app-test
     name: GitHub link to the project!
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: Python/Django
 ---
 Learned more about the web framework Django and how to apply Object-Oriented concepts in Python to assist with rapid and accurate web development. More details are given on the GitHub repository linked below!
