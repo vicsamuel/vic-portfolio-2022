@@ -9,13 +9,12 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Leave me a message and contact info and I will get back to you!
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  ***Leave me a message and I will get back to you!***
   # Email form provider
   form:
     provider: netlify
