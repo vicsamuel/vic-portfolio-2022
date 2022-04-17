@@ -15,6 +15,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
+  ***Leave me a message and I will get back to you!***
   # Email form provider
   form:
     provider: netlify
@@ -25,7 +26,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: vsamuel1121@gamil.com
+  email: vsamuel1121@gmail.com
   phone: Email Me Please!
   contact_links:
     - icon: twitter
