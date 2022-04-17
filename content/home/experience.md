@@ -25,7 +25,7 @@ experience:
   - title: Associate - Revenue Cycle Back-End
     company: Huron Consulting
     company_url: 'https://www.huronconsultinggroup.com/'
-    company_logo:
+    company_logo: huronlogo
     location: Remote (Portland, OR)
     date_start: '2021-09-27'
     date_end: ''
