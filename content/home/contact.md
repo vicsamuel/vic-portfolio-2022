@@ -35,7 +35,7 @@ content:
     - icon: telegram
       icon_pack: fab
       name: Telegram
-      link: 'https://telegram.com/'
+      link: 'https://web.telegram.org/z/'
 
 design:
   columns: '2'
