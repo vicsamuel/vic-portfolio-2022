@@ -3,7 +3,6 @@ title: Django Application Development
 date: 2022-04-15T20:14:36.467Z
 draft: false
 featured: false
-tags: Coding
 links:
   - url: https://github.com/vicsamuel/django-deployment-app-test
     name: GitHub Link to the Project!
