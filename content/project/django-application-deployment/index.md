@@ -4,6 +4,8 @@ date: 2022-04-17T15:49:41.343Z
 draft: false
 featured: true
 authors: []
+tags:
+  - Coding
 links:
   - url: https://github.com/vicsamuel/django-deployment-app-test
     name: GitHub link to the project!
