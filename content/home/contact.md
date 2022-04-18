@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: vsamuel1121@gmail.com
-  phone: Email Me Please!
+  # phone: Email Me Please!
   contact_links:
     - icon: twitter
       icon_pack: fab
