@@ -1,5 +1,5 @@
 ---   
-widget: 'github.vicsamuel.hero-lottie'
+widget: 'github.rodrigoalcarazdelaosa.hero-lottie'
 
 # This file represents a page section.
 headless: true
