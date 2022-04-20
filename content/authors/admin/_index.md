@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/victor-samuel-1738a29a/
 organizations:
-  - name: Indiana University-Purdue Univsersity Indianapolis
+  - name: Indiana University-Purdue University Indianapolis
     url: https://www.iupui.edu/
 education:
   courses:
