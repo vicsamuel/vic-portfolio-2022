@@ -23,6 +23,7 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: github.com/vicsamuel/wowchemy-widget-hero-lottie
 
 ############################
 ## ADVANCED
@@ -69,6 +70,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-module:
-  imports:
-    - path: github.com/vicsamuel/wowchemy-widget-hero-lottie
