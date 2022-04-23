@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.comptia.org/certifications/security
+- certificate_url: https://www.udemy.com/certificate/UC-c677e361-644f-4a8d-8d62-0e75d2885fe9/
   date_end: ""
   date_start: "2022-01-01"
   description: "Brushed up on knowledge of JS, HTML, CSS as well as frameworks like Bootstrap and jQuery. The main focus of this bootcamp was Python and Django using which I developed a full-stack Social Media Site Clone."
