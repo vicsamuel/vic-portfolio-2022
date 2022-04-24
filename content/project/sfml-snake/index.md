@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Classic arcade Snake game developed using C++ and the SFML Libraries to help with understanding boundary detection, collisions, and sprites. More details in the linked GitHub repository below.
+Classic arcade Snake game developed using C++ and the SFML Libraries to help with understanding boundary detection, collisions, and sprites.
