@@ -15,4 +15,4 @@ image:
   preview_only: false
   caption: Energy
 ---
-Dana Inc. posed a problem to our team which required a mechanical engineering approach to find a solution. We were tasked with producing a device that indefinitely powered a battery on the inside of a gearbox and relayed information back to the user about temperature, battery life, and other metrics that Dana Inc. required. Our team provided a prototype which does exactly this and documented the whole thing professionally. The work and our presentations are linked below.
+Dana Inc. posed a problem to our team which required mechanical engineering to find a solution. We were tasked with producing a device that indefinitely powered a battery on the inside of a gearbox and relayed information back to the user about temperature, battery life, and other metrics that Dana Inc. required.
