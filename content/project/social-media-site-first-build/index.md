@@ -5,6 +5,8 @@ subtitle: Social Media Site Clone built with Python and Django for the backend
 date: 2022-04-24T01:10:04.117Z
 draft: false
 featured: false
+tags:
+  - Coding
 links:
   - url: https://github.com/vicsamuel/Social-Media-Site
     name: Github link to the project!
