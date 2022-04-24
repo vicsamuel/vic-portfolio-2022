@@ -15,4 +15,4 @@ image:
   preview_only: false
   caption: Python/Django
 ---
-Learned more about the web framework Django and how to apply Object-Oriented concepts in Python to assist with rapid and accurate web development. More details are given on the GitHub repository linked below!
+Learned more about the web framework Django and how to apply Object-Oriented concepts in Python to assist with rapid and accurate web development.
