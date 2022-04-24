@@ -17,4 +17,4 @@ image:
   preview_only: true
   caption: OOP
 ---
-Exploration into the 23 different Object-Oriented Programming design patterns. More details are given on the GitHub repository linked below!
+Exploration into the 23 different Object-Oriented Programming design patterns. This was done entirely in C++ and with no external libraries.
