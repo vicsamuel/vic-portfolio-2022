@@ -47,7 +47,7 @@ item:
   organization: Udemy
   company_logo: Udemy
   organization_url: https://www.udemy.com/
-  title: Agile Fundamentals: Including Scrum and Kanban - 2022
+  title: Agile Fundamentals - Including Scrum and Kanban - 2022
   url: https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/learn/lecture/12463986?start=15#overview
 
 design:
