@@ -23,15 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.udemy.com/certificate/UC-448c2ca2-b93d-473d-bcfe-237c73022660/
-  date_end: ""
-  date_start: "2022-04-23"
-  description: "Learned about the different methodologies and ceremonies in Scrum and Kanban, and how they can be applied to help teams communicate more efficiently throughout the course of a project."
-  organization: Udemy
-  company_logo: Udemy
-  organization_url: https://www.udemy.com/
-  title: Agile Fundamentals: Including Scrum and Kanban - 2022
-  url: https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/learn/lecture/12463986?start=15#overview
 - certificate_url: https://www.udemy.com/certificate/UC-c677e361-644f-4a8d-8d62-0e75d2885fe9/
   date_end: ""
   date_start: "2022-01-01"
