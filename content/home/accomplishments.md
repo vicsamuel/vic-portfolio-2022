@@ -40,6 +40,15 @@ item:
   organization_url: https://www.comptia.org
   title: Security+
   url: ""
+- certificate_url: https://www.udemy.com/certificate/UC-448c2ca2-b93d-473d-bcfe-237c73022660/
+  date_end: ""
+  date_start: "2022-04-23"
+  description: "Learned about the different methodologies and ceremonies in Scrum and Kanban, and how they can be applied to help teams communicate more efficiently throughout the course of a project."
+  organization: Udemy
+  company_logo: Udemy
+  organization_url: https://www.udemy.com/
+  title: Agile Fundamentals: Including Scrum and Kanban - 2022
+  url: https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/learn/lecture/12463986?start=15#overview
 
 design:
   columns: '2' 
