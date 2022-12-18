@@ -9,7 +9,7 @@ links:
   - url: https://github.com/vicsamuel/SFML-Snake
     name: GitHub Link to the Project!
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
