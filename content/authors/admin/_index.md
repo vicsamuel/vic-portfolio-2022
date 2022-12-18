@@ -3,7 +3,7 @@ title: Victor Samuel
 role: Associate at Huron Consulting - Revenue Cycle Back-End (Remote -
   Pittsfield, MA)
 avatar_filename: avatar.jpg
-bio: "I enjoy developing technology solutions to solve everyday problems."
+bio: I enjoy developing technology solutions to solve everyday problems.
 interests:
   - Technology
   - Coding Solutions
@@ -16,8 +16,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/victor-samuel-1738a29a/
 organizations:
-  - name: Indiana University-Purdue University Indianapolis
-    url: https://www.iupui.edu/
   - name: Huron Consulting
     url: https://www.huronconsultinggroup.com/
 education:
