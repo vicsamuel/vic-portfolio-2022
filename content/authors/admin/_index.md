@@ -18,6 +18,8 @@ social:
 organizations:
   - name: Indiana University-Purdue University Indianapolis
     url: https://www.iupui.edu/
+  - name: Huron Consulting
+    url: https://www.huronconsultinggroup.com/
 education:
   courses:
     - course: Bachelors in Computer Engineering
