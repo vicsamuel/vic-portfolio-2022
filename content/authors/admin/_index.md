@@ -3,11 +3,11 @@ title: Victor Samuel
 role: Associate at Huron Consulting - Revenue Cycle Back-End (Remote -
   Pittsfield, MA)
 avatar_filename: avatar.jpg
-bio: ""
+bio: "I enjoy developing technology solutions to solve everyday problems."
 interests:
   - Technology
   - Coding Solutions
-  - Cryptocurrency
+  - ML/AI
 social:
   - icon: github
     icon_pack: fab
@@ -29,6 +29,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a highly driven, results-focused engineer with experience in Information Technology as well as implementing database solutions. I currently work at Huron Consulting in development of the back end of our Revenue Cycle tool. I am open to collaborations and positions in Data Science or Software Development.
+I am a highly driven, results-focused engineer with experience in Information Technology/Security, Software Implementation/Development, and Data Anaysis. I currently work at Huron Consulting in development of the back end of our Revenue Cycle tool. I am open to collaborations and positions in Data Analysis or Software Development.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
