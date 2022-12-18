@@ -2,7 +2,7 @@
 title: Victor Samuel
 role: Associate at Huron Consulting - Revenue Cycle Back-End (Remote -
   Pittsfield, MA)
-avatar_filename: personal.jpg
+avatar_filename: ""
 bio: ""
 interests:
   - Technology
