@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	Site to host my portfolio as well as give an insight into my interests and work life.
+	Old site to host my portfolio as well as give an insight into my interests and work life.
 </h3>
 <h2 align="center">
 	https://v1c.netlify.app/
