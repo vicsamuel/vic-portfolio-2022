@@ -25,7 +25,7 @@
 </p>
 
 ## About
-My goal is to address the question "What knowledge and skills should I learn to succeed in the 21st century?"
+My goal is to answer the question "What knowledge and skills should I learn to succeed in the 21st century?"
 
 This website is designed to be a documentation of that journey. I've documented the things that I have learned in my professions as well as the things that interest me in my personal life. I intend on keeping this site as up to date as possible and in the future making updates to allow for blog posts.
 
