@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	Older site to host my CV and to act as a window to my interests and work.
+	My old site to host my CV and to act as a window to my interests and work.
 </h3>
 <h2 align="center">
 	https://v1c.netlify.app/
